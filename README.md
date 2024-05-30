@@ -1,4 +1,4 @@
 # mobilemalls
 
-E-commerce app
+E-commerce app UI concept
 
